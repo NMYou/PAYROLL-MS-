@@ -11,7 +11,7 @@
 		<nav>
 			<h1>Payroll Sys.</h1>
 			<ul id="navli">
-				<li><a class="homered" href="index.html">HOME</a></li>
+				<li><a class="homered" href="index.php">HOME</a></li>
 				<li><a class="homeblack" href="contact.html">CONTACT</a></li>
 				<li><a class="homeblack" href="branch.html">LOG IN</a></li>
 			</ul>
