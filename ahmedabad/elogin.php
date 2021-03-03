@@ -9,7 +9,7 @@
 		<nav>
 			<h1>Payroll Sys. (Ahmedabad)</h1>
 			<ul id="navli">
-				<li><a class="homeblack" href="/phpprogram/PayrollManageSys.github.io/index.php">HOME</a></li>
+				<li><a class="homeblack" href="/phpprogram/PAYROLL(MS)/index.php">HOME</a></li>
 				<li><a class="homered" href="elogin.php">Employee Login</a></li>
 				<li><a class="homeblack" href="alogin.php">Admin Login</a></li>
 				
